@@ -1,9 +1,7 @@
-- Hi, my name is Deniz, I would like learn new things and create tools that humans will appreciate. I want to improve human life quailty via technology and 
-improve what we lack as a humanty.
-- I've experienced with different OOP languages and currently 
-- 📫 How to reach me ...
+- Hi, my name is Deniz, I like learning new things and creating tools that people will appreciate. My passion is improving human life quailty through technology and 
+improving what we lack as a humanty.
+- I've experienced with different OOP languages and currently having fun while learning Flutter, I am interested in mobile app development yet I can be flexible.
 
-<!---
-DenizSAHIN570/DenizSAHIN570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- Please feel free to reach me about any subject you may like to ask 
+Email: denizsahin570@outlook.com
