@@ -21,7 +21,7 @@ I'm a software developer with about 3 years of experience, specializing in backe
 - Experience in basic infrastructure maintenance, including server setups and management.
 
 ### Interests
-- Sci-fi and technology have always been my passions, and I love exploring new advancements in both fields.
+- Sci-fi and technology have always been my passions, you can always find me talking about either of them.
 - I’m always eager to learn and tackle new challenges in software development.
 
 ### Get in Touch
