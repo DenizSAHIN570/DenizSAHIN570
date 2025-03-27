@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a software developer with about 3 years of experience, specializing in backend development. My journey started with mobile development using Flutter, then expanded into full-stack development, working on EU-backed projects. Currently, I'm a backend developer at [DoluSoft](https://github.com/dolusoft).
+I'm a software developer with about 3 years of experience, specializing in backend development. My journey started with mobile development using Flutter, then expanded into full-stack development, working on EU-backed projects.
 
 ### What I Do
 - Backend development is my strong suit—it's where I feel most at home, solving complex software problems and building efficient systems.
