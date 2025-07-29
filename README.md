@@ -15,14 +15,17 @@ I'm a software developer with about 3 years of experience, specializing in backe
 - I enjoy mentoring interns and junior developers, helping them grow in their careers.
 
 ### Technologies & Skills
-- Strong experience and preference with C# and OOP languages.
-- Worked with message brokers such as Redis and relational databases.
-- Familiar with Docker and deployment processes.
-- Experience in basic infrastructure maintenance, including server setups and management.
+- Strong experience and preference for C# and object-oriented programming languages.
+- Worked with message brokers such as Kafka and Redis, and with non-relational and OLAP databases including MongoDB and ClickHouse.
+- Comfortable with Docker and Docker Compose, and experienced in deployment workflows.
+- Experience in infrastructure maintenance, including server provisioning and management.
+- Worked on complex projects with disciplined use of Git and adherence to branching and version control best practices.
 
-### Interests
-- Sci-fi and technology have always been my passions, you can always find me talking about either of them.
-- I’m always eager to learn and tackle new challenges in software development.
+### Interests & Fun Facts
+- Sci-fi and technology have always been passions of mine — you can always find me talking about either.
+- I’m always eager to learn and take on new challenges, both in software and life.
+- My favorite piece of technology is Docker — it's the closest thing to magic for me.
+- I enjoy diving into philosophical debates on almost any topic. Try me.
 
 ### Get in Touch
 If you'd like to connect, feel free to reach out via email: denizsahin570@outlook.com.
